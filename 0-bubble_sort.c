@@ -2,7 +2,6 @@
 
 /**
  * bubble_sort - sorts an array of integers in ascending order using the
- * Bubble sort algorithm
  *
  * @array: Pointer to the beginning of an array
  * @size: The size of the array
